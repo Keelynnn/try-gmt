@@ -8,6 +8,8 @@ dependencies:
   - pygmt=0.19.0
   - geopandas=1.1.4
   - jupyter-offlinenotebook
-  - zipp
+  - pip
+  - pip:
+    - zipp
   
-# rebuild-gmt
+# zipp
