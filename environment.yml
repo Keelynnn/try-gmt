@@ -4,9 +4,10 @@ channels:
   - nodefaults
 dependencies:
   - python=3.12
-  - gmt=6.7.0
+  - gmt=6.5.0
   - pygmt=0.19.0
   - geopandas=1.1.4
   - jupyter-offlinenotebook
   - zipp
-# rebuild-zipp
+  
+# rebuild-gmt
